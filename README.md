@@ -30,7 +30,7 @@ The project builds a **Unified E-Commerce Data Lakehouse** using **Azure Databri
 ---
 
 ## 🧱 **Data Architecture**
-![img.png](resources/project_architecture.png)
+![img.png](spark_project_ecommerce/resources/project_architecture.png)
 
 ## 🗂 **Folder Structure** (ADLS Container: `ecomm-raw-data`)
 
