@@ -80,7 +80,7 @@ ecomm-raw-data/
 
 Power BI connects to the **Gold layer** tables via **Databricks SQL Warehouse** for visual insights.
 
-![img.png](resources/ecommerce_analytics_report.jpg)
+![img.png](spark_project_ecommerce/resources/ecommerce_analytics_report.jpg)
 ---
 
 ## ✅ **Outcomes**
